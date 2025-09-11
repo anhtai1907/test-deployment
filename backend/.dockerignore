@@ -37,6 +37,7 @@ Thumbs.db
 /storage/framework/sessions/*
 /storage/framework/views/*
 !/storage/framework/.gitignore
+!/storage/app/public/diem_thi_thpt_2024.csv
 
 # Local Development Tools & Dependencies
 Homestead.yaml
